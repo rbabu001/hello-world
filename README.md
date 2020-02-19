@@ -1,3 +1,6 @@
 # hello-world
 Just another repository
-I like reading, painting, singing, and dancing.
+
+Hi Readers!!
+
+My name is Ranee and some of my hobbie include reading, painting, singing, and dancing.
